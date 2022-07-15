@@ -1,0 +1,2 @@
+# openspi
+Opensuse Post-Install
