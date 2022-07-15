@@ -1,0 +1,1 @@
+sudo zypper ref && sudo zypper dup && sudo zypper in opi zsh firefox gnome-disk-utility alien git file-roller zip unzip vlc flameshot wget curl indic-fonts noto-fonts noto-sans-cjk-fonts elementary-xfce-icon-theme && opi codecs 
